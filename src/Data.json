@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "title": "Iphone1",
+        "price": 4452,
+        "desc": "recent developments show that definite articles are morphological elements linked to certain noun types due to lexicalization. Under this point of view, definiteness does not play a role in the selection of a definite article more than the lexical entry attached to the article.[clarification needed][1][2]",
+        "image": "./Images/Apple-iPhone-14-Pro-Max-transformed.png"
+    },
+    {
+        "id": 1,
+        "title": "Iphone2",
+        "price": 4852,
+        "desc": "recent developments show that definite articles are morphological elements linked to certain noun types due to lexicalization. Under this point of view, definiteness does not play a role in the selection of a definite article more than the lexical entry attached to the article.[clarification needed][1][2]",
+        "image": "./Images/Apple-iPhone-14-Pro-Max-transformed.png"
+    },
+    {
+        "id": 2,
+        "title": "Iphone3",
+        "price": 4952,
+        "desc": "recent developments show that definite articles are morphological elements linked to certain noun types due to lexicalization. Under this point of view, definiteness does not play a role in the selection of a definite article more than the lexical entry attached to the article.[clarification needed][1][2]",
+        "image": "./Images/Apple-iPhone-12-Pro-transformed.png"
+    },
+    {
+        "id": 3,
+        "title": "Iphone4",
+        "price": 4582,
+        "desc": "recent developments show that definite articles are morphological elements linked to certain noun types due to lexicalization. Under this point of view, definiteness does not play a role in the selection of a definite article more than the lexical entry attached to the article.[clarification needed][1][2]",
+        "image": "./Images/Apple-iPhone-12-Pro-Max-transformed.png"
+    },
+    {
+        "id": 4,
+        "title": "Iphone5",
+        "price": 4552,
+        "desc": "recent developments show that definite articles are morphological elements linked to certain noun types due to lexicalization. Under this point of view, definiteness does not play a role in the selection of a definite article more than the lexical entry attached to the article.[clarification needed][1][2]",
+        "image": "./Images/Apple-iPhone-11-Pro-Max-transformed.png"
+    },
+    {
+        "id": 5,
+        "title": "Iphone6",
+        "price": 4522,
+        "desc": "recent developments show that definite articles are morphological elements linked to certain noun types due to lexicalization. Under this point of view, definiteness does not play a role in the selection of a definite article more than the lexical entry attached to the article.[clarification needed][1][2]",
+        "image": "./Images/Apple-iPhone-11-Pro-Max-transformed.png"
+    },
+    {
+        "id": 6,
+        "title": "Iphone7",
+        "price": 4532,
+        "desc": "recent developments show that definite articles are morphological elements linked to certain noun types due to lexicalization. Under this point of view, definiteness does not play a role in the selection of a definite article more than the lexical entry attached to the article.[clarification needed][1][2]",
+        "image":"./Images/Apple-iPhone-11-transformed.png"
+    }
+]
+
