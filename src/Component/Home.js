@@ -1,11 +1,11 @@
 import React from 'react'
 import Product from './Product'
-import img1 from '../Images/2061830.webp'
-import img2 from '../Images/5bd0fd4b3edf6-wallpaper-preview.jpg'
-import img3 from '../Images/apple-carbon-wallpaper-preview.jpg'
-import img4 from '../Images/silver-logo-samsung-wallpaper-preview.jpg'
-import img5 from '../Images/thumb2-nokia-carbon-logo-4k-grunge-art-carbon-background-creative.jpg'
-import img6 from '../Images/wp6644938.webp'
+import img1 from '../images/2061830.webp'
+import img2 from '../images/5bd0fd4b3edf6-wallpaper-preview.jpg'
+import img3 from '../images/apple-carbon-wallpaper-preview.jpg'
+import img4 from '../images/silver-logo-samsung-wallpaper-preview.jpg'
+import img5 from '../images/thumb2-nokia-carbon-logo-4k-grunge-art-carbon-background-creative.jpg'
+import img6 from '../images/2061830.webp'
 
 const Home = () => {
     return (

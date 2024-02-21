@@ -1,5 +1,5 @@
 import React from 'react'
-import contact from '../Images/contaact.jpg'
+import contact from '../images/contaact.jpg'
 const Contact = () => {
   return (
     <div className='container mb-5'>

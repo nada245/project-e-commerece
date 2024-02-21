@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import about from '../Images/silhouettes-businesspeople-talking-about-meeting.jpg'
+import about from '../images/silhouettes-businesspeople-talking-about-meeting.jpg'
 const About = () => {
   return (
     <div>
