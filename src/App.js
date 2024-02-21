@@ -10,10 +10,10 @@ import Home from './Component/Home';
 import Product from './Component/Product';
 import About from './Component/About';
 import Contact from './Component/Contact';
-import Footer from './Component/Footer';
+
 import ProductDetails from './Component/ProductDetails';
-
-
+import Cart from './Component/Cart';
+import Checkout from './Component/Checkout';
 function App() {
   return (
     <>
@@ -22,11 +22,13 @@ function App() {
         <Route exact path="/" element={<Home />} />
         <Route  path="/products" element={<Product />} />
         <Route  path="/products/:id" element={<ProductDetails />} />
+        <Route path="/cart" element={<Cart/>}/>
+        <Route path="/checkout" element={<Checkout/>}/>
         <Route exact path="/about" element={<About />} />
         <Route exact path="/contact" element={<Contact />} />
         
       </Routes>
-      <Footer />
+      
     </>
       
     
